@@ -1,1 +1,1 @@
-# CSE3200_Lab2_MVC_Quiz
+# CSE3200 Lab2 MVC Quiz
